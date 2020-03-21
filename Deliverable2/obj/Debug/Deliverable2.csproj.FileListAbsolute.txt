@@ -1,0 +1,5 @@
+/Users/sumacumlaude/Documents/School/GRAND_CIRCUS/Unit1/Deliverable2/Deliverable2/bin/Debug/Deliverable2.exe
+/Users/sumacumlaude/Documents/School/GRAND_CIRCUS/Unit1/Deliverable2/Deliverable2/bin/Debug/Deliverable2.pdb
+/Users/sumacumlaude/Documents/School/GRAND_CIRCUS/Unit1/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csprojAssemblyReference.cache
+/Users/sumacumlaude/Documents/School/GRAND_CIRCUS/Unit1/Deliverable2/Deliverable2/obj/Debug/Deliverable2.exe
+/Users/sumacumlaude/Documents/School/GRAND_CIRCUS/Unit1/Deliverable2/Deliverable2/obj/Debug/Deliverable2.pdb
